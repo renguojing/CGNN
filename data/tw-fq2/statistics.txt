@@ -1,0 +1,8 @@
+twitter-foursquare
+Nodes of source network:  1564
+Edges of source network:  14090
+Nodes of target network:  1508
+Edges of target network:  18471
+Anchor links:  1564
+
+Link prediction in multiplex online social networks
