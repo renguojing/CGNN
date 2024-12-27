@@ -1,0 +1,22 @@
+Nodes of source network:  4543
+Edges of source network:  15941
+Nodes of target network:  4914
+Edges of target network:  21068
+Anchor links:  3057
+Interoperability:  0.04885298170715231
+
+wcc:
+Nodes of source network:  4415
+Edges of source network:  15873
+Nodes of target network:  4755
+Edges of target network:  20976
+Anchor links:  2883
+
+aligned networks without isolated nodes:
+Nodes of source network:  2562
+Edges of source network:  6967
+Nodes of target network:  2409
+Edges of target network:  7862
+Anchor links:  2177
+
+Multilayer social networks
