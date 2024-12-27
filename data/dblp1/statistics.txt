@@ -1,0 +1,8 @@
+Nodes of source network:  11526
+Edges of source network:  23663
+Nodes of target network:  12311
+Edges of target network:  21974
+Anchor links:  1295
+Interoperability:  0.028617130836821
+
+Domain-Adversarial Network Alignment

@@ -1,0 +1,9 @@
+douban online-offline
+Nodes of source network:  3906
+Edges of source network:  8164
+Nodes of target network:  1118
+Edges of target network:  1511
+Anchor links:  1118
+Interoperability:  0.3123514211886305
+
+Attributed Network Alignment: Problem Definitions and Fast Solutions

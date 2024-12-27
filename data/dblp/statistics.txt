@@ -1,0 +1,8 @@
+Nodes of source network:  2151
+Edges of source network:  6306
+Nodes of target network:  2151
+Edges of target network:  5676
+Anchor links:  2151
+Interoperability:  0.9472542146553163
+
+From: Cross-Network Skip-Gram Embedding for Joint Network Alignment and Link Prediction

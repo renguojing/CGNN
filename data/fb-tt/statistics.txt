@@ -1,0 +1,9 @@
+facebook-twitter
+Nodes of source network:  1043
+Edges of source network:  4734
+Nodes of target network:  1043
+Edges of target network:  4860
+Anchor links:  1043
+Interoperability:  0.8903481342505732
+
+Cross-Network Skip-Gram Embedding for Joint Network Alignment and Link Prediction

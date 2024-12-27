@@ -1,0 +1,8 @@
+twitter-foursquare
+Nodes of source network:  1609
+Edges of source network:  17989
+Nodes of target network:  1609
+Edges of target network:  7715
+Anchor links:  1609
+
+Structural Representation Learning for User Alignment Across Social Networks

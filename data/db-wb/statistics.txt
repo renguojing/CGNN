@@ -1,0 +1,23 @@
+douban-weibo
+Nodes of source network:  10103
+Edges of source network:  263997
+Nodes of target network:  9576
+Edges of target network:  135390
+Anchor links:  4752
+Interoperability:  0.05604088265266521
+
+wcc:
+Nodes of source network:  10094
+Edges of source network:  263992
+Nodes of target network:  9576
+Edges of target network:  135390
+Anchor links:  4748
+
+aligned:
+Nodes of source network:  4607
+Edges of source network:  62018
+Nodes of target network:  4393
+Edges of target network:  29893
+Anchor links:  4293
+
+Domain-Adversarial Network Alignment
