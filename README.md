@@ -20,7 +20,7 @@ If you want to run CGNN algorithm on Facebook-Twitter dataset with 90% training 
 `python train.py --anchor data/fb-tt/anchor0.9.pkl --split_path data/fb-tt/split0.9.pkl`
 
 #### Datasets
-The datasets are packaged in `data.zip`. `gragh1.pkl` is the 1st layer of the multilayer network, and `graph2.pkl` is the 2nd layer of the multilayer network. Both of them are networkx.Graph objects. `split0.9.pkl` contains (adj_train, train_edges, train_edges_false, test_edges, test_edges_false) of both layers. `anchor0.9.pkl` contains train anchor links and test anchor links. These processed data files can be obtained by `dataprocess.py`.
+The datasets are packaged in the `data` folder. `gragh1.pkl` is the 1st layer of the multilayer network, and `graph2.pkl` is the 2nd layer of the multilayer network. Both of them are networkx.Graph objects. `split0.9.pkl` contains (adj_train, train_edges, train_edges_false, test_edges, test_edges_false) of both layers. `anchor0.9.pkl` contains train anchor links and test anchor links. These processed data files can be obtained by `dataprocess.py`.
 
 ## Reference  
 If you are interested in our researches, please cite our papers:  
